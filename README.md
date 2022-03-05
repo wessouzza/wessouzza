@@ -1,6 +1,7 @@
 ## Welcome!
 
 ![Wes Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=wessouzza&theme=prussian&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wessouzza&theme=tokyonight)
 
 ## Skills:
 <div style='display: inline-block'>
